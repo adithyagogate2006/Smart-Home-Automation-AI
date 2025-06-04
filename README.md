@@ -2,9 +2,7 @@
 # Smart Home Automation using AI
 
 **Internship Project by Adithya Gogate**  
-**BCA 2nd Year, SDM College, Ujire**  
-**Location:** Dharmasthala, Karnataka  
-**Email:** adityagogate2006@gmail.com
+  **Email:** adityagogate2006@gmail.com
 
 ## 🎯 Objective
 
